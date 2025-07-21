@@ -1,0 +1,61 @@
+domain,tld,is_https,url_length,num_hyphens,num_digits,num_special_chars,num_path_segments,has_ssl,whois_registrar,whois_country,domain_age_days,is_phishing
+http://www.expanish.com/index.php,com,0,33,0,0,0,3,0,"GoDaddy.com, LLC",Desconocido,7173,0
+http://www.webuniversitaria.com,com,0,31,0,0,0,2,0,Gname 157 Inc,Desconocido,4,0
+http://www.linuxcollegium.com.ar/,com.ar,0,33,0,0,0,3,0,nicar,Desconocido,4347,0
+http://www.cursosmasajes.net/,net,0,29,0,0,0,3,0,Error,Error,-1,0
+http://www.aprender21.com,com,0,25,0,2,0,2,0,"TUCOWS, INC.",CA,8038,0
+http://www.masajescursos.org,org,0,28,0,0,0,2,0,Error,Error,-1,0
+http://www.webcic.com.ar,com.ar,0,24,0,0,0,2,0,Error,Error,-1,0
+http://www.electrocardiograma.org,org,0,33,0,0,0,2,0,"Name.com, Inc.",Desconocido,61,0
+http://www.cursosdemaquillaje.org,org,0,33,0,0,0,2,0,Error,Error,-1,0
+http://www.grupobuenaletra.com.ar,com.ar,0,33,0,0,0,2,0,Error,Error,-1,0
+https://partidond.blogspot.com,com,1,30,0,0,0,2,0,Error,Error,-1,0
+http://www.asoclegi.org.ar,org.ar,0,26,0,0,0,2,0,nicar,Desconocido,3982,0
+http://www.gobiernoelectronico.org/,org,0,35,0,0,0,3,0,DropCatch.com 1368 LLC,US,1549,0
+http://www.gobiernoelectronico.ar/,ar,0,34,0,0,0,3,0,Error,Error,-1,0
+http://www.info.gov.ar/,gov.ar,0,23,0,0,0,3,0,Error,Error,-1,0
+http://www.psi.gov.ar/index.htm,gov.ar,0,31,0,0,0,3,0,Error,Error,-1,0
+http://www.tiendadebienestar.com/tienda-herbalife/,com,0,50,1,0,0,4,0,"Cloudflare, Inc.",AR,4137,0
+http://www.rxdomicilio.com.ar,com.ar,0,29,0,0,0,2,0,nicar,Desconocido,4052,0
+http://www.salud.com.ar,com.ar,0,23,0,0,0,2,0,nicar,Desconocido,4143,0
+http://www.anteroos.com.ar,com.ar,0,26,0,0,0,2,0,nicar,Desconocido,4344,0
+http://www.dramoretti.com.ar,com.ar,0,28,0,0,0,2,0,Error,Error,-1,0
+http://www.cursosenfermeria.net,net,0,31,0,0,0,2,0,"OVH, SAS",ES,222,0
+https://www.facebook.com/pages/Buenos-Aires-Argentina/Instituto-de-Neurologia-Cognitiva-INECO/52255222248,com,1,105,6,11,0,6,0,"RegistrarSafe, LLC",US,10341,0
+https://www.youtube.com/user/neurologiacognitiva,com,1,48,0,0,0,4,0,"MarkMonitor, Inc.",US,7461,0
+http://www.aumentosenos.org,org,0,27,0,0,0,2,0,Error,Error,-1,0
+http://www.solosaludviandas.com.ar,com.ar,0,34,0,0,0,2,0,Error,Error,-1,0
+http://www.drlombardi.com.ar,com.ar,0,28,0,0,0,2,0,nicar,Desconocido,4071,0
+http://www.denuncialo.webnode.com.ar,com.ar,0,36,0,0,0,2,0,nicar,Desconocido,4317,0
+http://www.callcenternews.com.ar,com.ar,0,32,0,0,0,2,0,nicar,Desconocido,4346,0
+http://www.todonoticiasonline.com.ar,com.ar,0,36,0,0,0,2,0,Error,Error,-1,0
+http://zoomradio.com.ar,com.ar,0,23,0,0,0,2,0,Error,Error,-1,0
+http://www.canalproductivo.com,com,0,30,0,0,0,2,0,Error,Error,-1,0
+http://www.elrincondesayamaabar.com,com,0,35,0,0,0,2,0,Error,Error,-1,0
+http://ukranews.com.ar,com.ar,0,22,0,0,0,2,0,Error,Error,-1,0
+http://www.microcampo.com,com,0,25,0,0,0,2,0,Error,Error,-1,0
+http://www.avesyporcinos.com.ar,com.ar,0,31,0,0,0,2,0,Error,Error,-1,0
+http://www.syconline.info,info,0,25,0,0,0,2,0,"DNC Holdings, Inc.",AR,8488,0
+http://www.dell.com/ar/p,com,0,24,0,0,0,4,0,Safenames Ltd,US,13390,0
+http://www.supaginaeninternet.com.ar,com.ar,0,36,0,0,0,2,0,Error,Error,-1,0
+http://www.zoomtecnologias.com/,com,0,31,0,0,0,3,0,"GoDaddy.com, LLC",Desconocido,5658,0
+http://www.it.com.ar,com.ar,0,20,0,0,0,2,0,nicar,Desconocido,3913,0
+http://www.landaware.com.ar,com.ar,0,27,0,0,0,2,0,nicar,Desconocido,4261,0
+http://www.netinf.com.ar,com.ar,0,24,0,0,0,2,0,Error,Error,-1,0
+http://soliverez.com.ar/cyt-ar/,com.ar,0,31,1,0,0,4,0,nicar,Desconocido,4337,0
+http://www.facebooktools.com.ar,com.ar,0,31,0,0,0,2,0,Error,Error,-1,0
+http://www.romerositios.com,com,0,27,0,0,0,2,0,"Wild West Domains, LLC",Desconocido,6571,0
+http://www.dr-com.com.ar/2009,com.ar,0,29,1,4,0,3,0,nicar,Desconocido,4109,0
+http://www.porsugracianetwork.com.ar,com.ar,0,36,0,0,0,2,0,Error,Error,-1,0
+http://www.casino-gratis-online.com,com,0,35,2,0,0,2,0,"GoDaddy.com, LLC",Desconocido,1707,0
+http://www.megaproxy.com.ar/,com.ar,0,28,0,0,0,3,0,nicar,Desconocido,4353,0
+http://neuvoo.com.ar/,com.ar,0,21,0,0,0,3,0,nicar,Desconocido,4275,0
+http://www.doplim.com.ar/,com.ar,0,25,0,0,0,3,0,nicar,Desconocido,4351,0
+http://www.fcarlsson.net,net,0,24,0,0,0,2,0,Error,Error,-1,0
+http://www.pizzavaria.com.ar,com.ar,0,28,0,0,0,2,0,Desconocido,Desconocido,-1,0
+http://www.sergiogastiazoro.com.ar,com.ar,0,34,0,0,0,2,0,Desconocido,Desconocido,-1,0
+http://www.mrled.com.ar,com.ar,0,23,0,0,0,2,0,Desconocido,Desconocido,-1,0
+http://www.illuminata.com.ar,com.ar,0,28,0,0,0,2,0,Desconocido,Desconocido,-1,0
+http://www.lsinstalaciones.com.ar,com.ar,0,33,0,0,0,2,0,Desconocido,Desconocido,-1,0
+http://www.cachorrosplus.com,com,0,28,0,0,0,2,0,Error,Error,-1,0
+http://www.misalteregos.com.ar,com.ar,0,30,0,0,0,2,0,Desconocido,Desconocido,-1,0

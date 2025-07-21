@@ -1,0 +1,251 @@
+domain,tld,is_https,url_length,num_hyphens,num_digits,num_special_chars,num_path_segments,has_ssl,whois_registrar,whois_country,domain_age_days,is_phishing
+google.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10171,0
+mail.ru,ru,0,7,0,0,0,0,0,RU-CENTER-RU,Desconocido,10159,0
+microsoft.com,com,0,13,0,0,0,0,1,MarkMonitor Inc.,Desconocido,12499,0
+facebook.com,com,0,12,0,0,0,0,0,"RegistrarSafe, LLC",US,10341,0
+apple.com,com,0,9,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,US,14032,0
+amazonaws.com,com,0,13,0,0,0,0,0,MarkMonitor Inc.,Desconocido,7277,0
+dzen.ru,ru,0,7,0,0,0,0,1,RU-CENTER-RU,Desconocido,8735,0
+youtube.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,7461,0
+googleapis.com,com,0,14,0,0,0,0,0,MarkMonitor Inc.,Desconocido,7482,0
+cloudflare.com,com,0,14,0,0,0,0,1,"Cloudflare, Inc.",US,5998,0
+akamai.net,net,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,9637,0
+instagram.com,com,0,13,0,0,0,0,1,"RegistrarSafe, LLC",US,7717,0
+twitter.com,com,0,11,0,0,0,0,1,"CSC Corporate Domains, Inc.",Desconocido,9313,0
+akamaiedge.net,net,0,14,0,0,0,0,0,MarkMonitor Inc.,Desconocido,8691,0
+gstatic.com,com,0,11,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6370,0
+office.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,9589,0
+azure.com,com,0,9,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11227,0
+linkedin.com,com,0,12,0,0,0,0,1,MarkMonitor Inc.,Desconocido,8297,0
+live.com,com,0,8,0,0,0,0,1,"CSC Corporate Domains, Inc.",Desconocido,11163,0
+googlevideo.com,com,0,15,0,0,0,0,0,MarkMonitor Inc.,Desconocido,8093,0
+akadns.net,net,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,9567,0
+ax-msedge.net,net,0,13,1,0,0,0,0,MarkMonitor Inc.,Desconocido,502,0
+googletagmanager.com,com,0,20,0,0,0,0,0,MarkMonitor Inc.,Desconocido,5000,0
+fbcdn.net,net,0,9,0,0,0,0,1,"RegistrarSafe, LLC",US,6654,0
+windowsupdate.com,com,0,17,0,0,0,0,0,"CSC Corporate Domains, Inc.",Desconocido,10226,0
+amazon.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11220,0
+apple-dns.net,net,0,13,1,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,4072,0
+workers.dev,dev,0,11,0,0,0,0,1,Desconocido,Desconocido,-1,0
+wikipedia.org,org,0,13,0,0,0,0,1,MarkMonitor Inc.,US,8955,0
+microsoftonline.com,com,0,19,0,0,0,0,0,MarkMonitor Inc.,Desconocido,8413,0
+office.net,net,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,11207,0
+t-msedge.net,net,0,12,1,0,0,0,0,MarkMonitor Inc.,Desconocido,4155,0
+trafficmanager.net,net,0,18,0,0,0,0,0,MarkMonitor Inc.,Desconocido,7178,0
+github.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,6495,0
+e2ro.com,com,0,8,0,1,0,0,0,"Amazon Registrar, Inc.",GB,3709,0
+doubleclick.net,net,0,15,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10779,0
+googleusercontent.com,com,0,21,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6090,0
+aaplimg.com,com,0,11,0,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,4443,0
+fastly.net,net,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,5208,0
+whatsapp.net,net,0,12,0,0,0,0,1,"RegistrarSafe, LLC",US,5995,0
+appsflyersdk.com,com,0,16,0,0,0,0,0,"Amazon Registrar, Inc.",IL,2177,0
+tiktokcdn.com,com,0,13,0,0,0,0,0,Gandi SAS,Desconocido,2861,0
+icloud.com,com,0,10,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,US,9684,0
+bing.com,com,0,8,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10766,0
+wordpress.org,org,0,13,0,0,0,0,1,MarkMonitor Inc.,US,8151,0
+sharepoint.com,com,0,14,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,US,9842,0
+netflix.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10114,0
+youtu.be,be,0,8,0,0,0,0,1,Desconocido,Desconocido,6419,0
+windows.net,net,0,11,0,0,0,0,0,MarkMonitor Inc.,Desconocido,10938,0
+skype.com,com,0,9,0,0,0,0,1,MarkMonitor Inc.,Desconocido,8125,0
+pinterest.com,com,0,13,0,0,0,0,1,MarkMonitor Inc.,Desconocido,5716,0
+digicert.com,com,0,12,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10458,0
+l-msedge.net,net,0,12,1,0,0,0,0,MarkMonitor Inc.,Desconocido,4155,0
+yahoo.com,com,0,9,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11142,0
+domaincontrol.com,com,0,17,0,0,0,0,0,"Wild West Domains, LLC",Desconocido,8261,0
+dual-s-msedge.net,net,0,17,2,0,0,0,0,"CSC Corporate Domains, Inc.",Desconocido,962,0
+googlesyndication.com,com,0,21,0,0,0,0,1,MarkMonitor Inc.,Desconocido,8217,0
+whatsapp.com,com,0,12,0,0,0,0,1,"RegistrarSafe, LLC",US,6164,0
+goo.gl,gl,0,6,0,0,0,0,1,"MarkMonitor, Inc.",Desconocido,7334,0
+roblox.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,7843,0
+adobe.com,com,0,9,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,US,14126,0
+msn.com,com,0,7,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11211,0
+tiktokv.com,com,0,11,0,0,0,0,0,Gandi SAS,Desconocido,2861,0
+vimeo.com,com,0,9,0,0,0,0,1,MarkMonitor Inc.,Desconocido,7523,0
+cloudfront.net,net,0,14,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6296,0
+a-msedge.net,net,0,12,1,0,0,0,0,MarkMonitor Inc.,Desconocido,4155,0
+spotify.com,com,0,11,0,0,0,0,1,Abion AB,SE,7029,0
+gtld-servers.net,net,0,16,1,0,0,0,0,"Network Solutions, LLC",US,11478,0
+tiktok.com,com,0,10,0,0,0,0,1,Gandi SAS,Desconocido,10592,0
+x.com,com,0,5,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,11798,0
+bit.ly,ly,0,6,0,0,0,0,1,Libyan Spider Network (int),US,6274,0
+gvt1.com,com,0,8,0,1,0,0,0,MarkMonitor Inc.,Desconocido,6348,0
+ntp.org,org,0,7,0,0,0,0,1,"TUCOWS, INC.",US,10411,0
+gvt2.com,com,0,8,0,1,0,0,0,MarkMonitor Inc.,Desconocido,6348,0
+office365.com,com,0,13,0,3,0,0,1,MarkMonitor Inc.,Desconocido,7336,0
+edgekey.net,net,0,11,0,0,0,0,0,MarkMonitor Inc.,Desconocido,8691,0
+ytimg.com,com,0,9,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6432,0
+wordpress.com,com,0,13,0,0,0,0,1,MarkMonitor Inc.,Desconocido,9271,0
+zoom.us,us,0,7,0,0,0,0,1,"MarkMonitor, Inc.",Desconocido,8489,0
+mozilla.org,org,0,11,0,0,0,0,1,MarkMonitor Inc.,US,10040,0
+edgesuite.net,net,0,13,0,0,0,0,0,MarkMonitor Inc.,Desconocido,8876,0
+app-analytics-services.com,com,0,26,2,0,0,0,0,MarkMonitor Inc.,Desconocido,578,0
+cdninstagram.com,com,0,16,0,0,0,0,0,"RegistrarSafe, LLC",US,4099,0
+google-analytics.com,com,0,20,1,0,0,0,1,MarkMonitor Inc.,Desconocido,7308,0
+cloudflare.net,net,0,14,0,0,0,0,0,"Cloudflare, Inc.",US,5998,0
+qq.com,com,0,6,0,0,0,0,1,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",Desconocido,11036,0
+gandi.net,net,0,9,0,0,0,0,1,Gandi SAS,Desconocido,9558,0
+googleadservices.com,com,0,20,0,0,0,0,0,MarkMonitor Inc.,Desconocido,8068,0
+wac-msedge.net,net,0,14,1,0,0,0,0,"CSC Corporate Domains, Inc.",Desconocido,962,0
+opera.com,com,0,9,0,0,0,0,1,NameWeb BVBA,Desconocido,9595,0
+msedge.net,net,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,4875,0
+snapchat.com,com,0,12,0,0,0,0,1,MarkMonitor Inc.,Desconocido,4892,0
+yandex.net,net,0,10,0,0,0,0,1,Safenames Ltd,RU,9015,0
+googledomains.com,com,0,17,0,0,0,0,1,MarkMonitor Inc.,Desconocido,8017,0
+windows.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10906,0
+blogspot.com,com,0,12,0,0,0,0,1,MarkMonitor Inc.,Desconocido,9121,0
+baidu.com,com,0,9,0,0,0,0,1,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",Desconocido,9415,0
+nic.ru,ru,0,6,0,0,0,0,1,RU-CENTER-RU,Desconocido,10097,0
+unity3d.com,com,0,11,0,1,0,0,1,MarkMonitor Inc.,Desconocido,7233,0
+rbxcdn.com,com,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,4387,0
+samsung.com,com,0,11,0,0,0,0,1,Whois Corp.,KR,11192,0
+cdn77.org,org,0,9,0,2,0,0,0,"Gransy, s.r.o.",CZ,4514,0
+a2z.com,com,0,7,0,1,0,0,0,MarkMonitor Inc.,Desconocido,11183,0
+aiv-cdn.net,net,0,11,1,0,0,0,0,MarkMonitor Inc.,Desconocido,3820,0
+reddit.com,com,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,7388,0
+bytefcdn-oversea.com,com,0,20,1,0,0,0,0,Gandi SAS,Desconocido,1110,0
+cloudflare-dns.com,com,0,18,1,0,0,0,1,"Cloudflare, Inc.",US,2673,0
+intuit.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11476,0
+vk.com,com,0,6,0,0,0,0,1,"Regional Network Information Center, JSC dba RU-CENTER",RU,10254,0
+nginx.org,org,0,9,0,0,0,0,1,"CSC Corporate Domains, Inc.",US,7515,0
+outlook.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11295,0
+sentry.io,io,0,9,0,0,0,0,1,Gandi SAS,Desconocido,4853,0
+amazon-adsystem.com,com,0,19,1,0,0,0,0,MarkMonitor Inc.,Desconocido,5057,0
+wa.me,me,0,5,0,0,0,0,0,"RegistrarSafe, LLC",Desconocido,5841,0
+t.me,me,0,4,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,5541,0
+app-measurement.com,com,0,19,1,0,0,0,0,MarkMonitor Inc.,Desconocido,3685,0
+ui.com,com,0,6,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,11053,0
+nginx.com,com,0,9,0,0,0,0,1,"CSC Corporate Domains, Inc.",Desconocido,7515,0
+europa.eu,eu,0,9,0,0,0,0,1,ClearMedia NV,Desconocido,-1,0
+ln-msedge.net,net,0,13,1,0,0,0,0,MarkMonitor Inc.,Desconocido,823,0
+gravatar.com,com,0,12,0,0,0,0,1,MarkMonitor Inc.,Desconocido,7676,0
+telekom.de,de,0,10,0,0,0,0,1,Desconocido,Desconocido,-1,0
+dropbox.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10981,0
+adnxs.com,com,0,9,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6264,0
+criteo.com,com,0,10,0,0,0,0,1,Gandi SAS,Desconocido,7339,0
+nist.gov,gov,0,8,0,0,0,0,1,get.gov,REDACTED FOR PRIVACY,10154,0
+tiktokcdn-us.com,com,0,16,1,0,0,0,0,Gandi SAS,Desconocido,1433,0
+lencr.org,org,0,9,0,0,0,0,1,"Cloudflare, Inc.",US,1848,0
+github.io,io,0,9,0,0,0,0,1,MarkMonitor Inc.,Desconocido,4518,0
+apache.org,org,0,10,0,0,0,0,1,"NameCheap, Inc.",US,11059,0
+applovin.com,com,0,12,0,0,0,0,0,"CSC Corporate Domains, Inc.",Desconocido,5134,0
+epicgames.com,com,0,13,0,0,0,0,0,MarkMonitor Inc.,Desconocido,11150,0
+msftncsi.com,com,0,12,0,0,0,0,0,"CSC Corporate Domains, Inc.",Desconocido,7193,0
+health.mil,mil,0,10,0,0,0,0,0,Desconocido,Desconocido,-1,0
+userapi.com,com,0,11,0,0,0,0,1,"Regional Network Information Center, JSC dba RU-CENTER",RU,6144,0
+ggpht.com,com,0,9,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6396,0
+tumblr.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,6983,0
+okcdn.ru,ru,0,8,0,0,0,0,0,RU-CENTER-RU,Desconocido,4554,0
+xiaomi.com,com,0,10,0,0,0,0,1,"eName Technology Co.,Ltd.",CN,8035,0
+miit.gov.cn,gov.cn,0,11,0,0,0,0,0,Desconocido,Desconocido,-1,0
+f5.com,com,0,6,0,1,0,0,1,"CSC Corporate Domains, Inc.",Desconocido,10643,0
+pki.goog,goog,0,8,0,0,0,0,1,Desconocido,Desconocido,-1,0
+nih.gov,gov,0,7,0,0,0,0,1,get.gov,REDACTED FOR PRIVACY,10154,0
+one.one,one,0,7,0,0,0,0,1,One.com A/S - ONE,dk,3715,0
+dns.google,google,0,10,0,0,0,0,1,Desconocido,Desconocido,-1,0
+paypal.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,9503,0
+archive.org,org,0,11,0,0,0,0,1,easyDNS Technologies Inc.,US,10812,0
+nytimes.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,11507,0
+trbcdn.net,net,0,10,0,0,0,0,0,"Regional Network Information Center, JSC dba RU-CENTER",RU,3038,0
+macromedia.com,com,0,14,0,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,11757,0
+akamaized.net,net,0,13,0,0,0,0,0,MarkMonitor Inc.,Desconocido,4143,0
+gmail.com,com,0,9,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10935,0
+3gppnetwork.org,org,0,15,0,1,0,0,0,"Network Solutions, LLC","['GB', 'UK']",8468,0
+myfritz.net,net,0,11,0,0,0,0,1,InterNetX GmbH,DE,5051,0
+rubiconproject.com,com,0,18,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,6655,0
+cdn-apple.com,com,0,13,1,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,5373,0
+forms.gle,gle,0,9,0,0,0,0,0,Desconocido,Desconocido,-1,0
+steamserver.net,net,0,15,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6248,0
+ttdns2.com,com,0,10,0,1,0,0,0,Gandi SAS,Desconocido,1419,0
+registrar-servers.com,com,0,21,1,0,0,0,0,"NameCheap, Inc.",Desconocido,6465,0
+amazon.dev,dev,0,10,0,0,0,0,0,Desconocido,Desconocido,-1,0
+flickr.com,com,0,10,0,0,0,0,1,"GoDaddy Corporate Domains, LLC",Desconocido,7912,0
+meraki.com,com,0,10,0,0,0,0,1,MarkMonitor Inc.,Desconocido,8231,0
+amazonvideo.com,com,0,15,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10328,0
+aliyuncs.com,com,0,12,0,0,0,0,0,"Alibaba Cloud Computing (Beijing) Co., Ltd.",CN,4859,0
+casalemedia.com,com,0,15,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,8311,0
+adriver.ru,ru,0,10,0,0,0,0,1,RU-CENTER-RU,Desconocido,9000,0
+example.com,com,0,11,0,0,0,0,1,RESERVED-Internet Assigned Numbers Authority,Desconocido,10934,0
+yandex.ru,ru,0,9,0,0,0,0,1,RU-CENTER-RU,Desconocido,10163,0
+cnn.com,com,0,7,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,US,11625,0
+imgsmail.ru,ru,0,11,0,0,0,0,0,RU-CENTER-RU,Desconocido,6087,0
+shifen.com,com,0,10,0,0,0,0,0,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",Desconocido,8755,0
+medium.com,com,0,10,0,0,0,0,1,"Amazon Registrar, Inc.",GB,9917,0
+dnsowl.com,com,0,10,0,0,0,0,0,"NameSilo, LLC",US,5670,0
+doubleverify.com,com,0,16,0,0,0,0,1,"GoDaddy Corporate Domains, LLC",Desconocido,6547,0
+soundcloud.com,com,0,14,0,0,0,0,0,Gandi SAS,Desconocido,7301,0
+wildberries.ru,ru,0,14,0,0,0,0,0,RU-CENTER-RU,Desconocido,7783,0
+nflxso.net,net,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,3405,0
+discord.gg,gg,0,10,0,0,0,0,1,Error,Error,-1,0
+adobe.io,io,0,8,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,Desconocido,4879,0
+kaspersky.com,com,0,13,0,0,0,0,1,"Regional Network Information Center, JSC dba RU-CENTER",RU,10147,0
+rocket-cdn.com,com,0,14,1,0,0,0,0,"GoDaddy.com, LLC",Desconocido,1748,0
+theguardian.com,com,0,15,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,11338,0
+shopify.com,com,0,11,0,0,0,0,1,"MarkMonitor, Inc.",CA,7437,0
+wsdvs.com,com,0,9,0,0,0,0,0,"Alibaba Cloud Computing (Beijing) Co., Ltd.",CN,4045,0
+w3.org,org,0,6,0,1,0,0,1,Gandi SAS,US,11338,0
+taboola.com,com,0,11,0,0,0,0,1,"Ascio Technologies, Inc",US,6723,0
+capcutapi.com,com,0,13,0,0,0,0,0,Gandi SAS,Desconocido,829,0
+forbes.com,com,0,10,0,0,0,0,1,"MarkMonitor, Inc.",US,11722,0
+mzstatic.com,com,0,12,0,0,0,0,1,NOM-IQ Ltd dba Com Laude,US,5487,0
+t.co,co,0,4,0,0,0,0,1,"CSC Corporate Domains, Inc.",US,5565,0
+demdex.net,net,0,10,0,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,6187,0
+pv-cdn.net,net,0,10,1,0,0,0,0,MarkMonitor Inc.,Desconocido,1586,0
+safebrowsing.apple,apple,0,18,0,0,0,0,0,"CSC Corporate Domains, Inc.",US,1925,0
+azurewebsites.net,net,0,17,0,0,0,0,0,MarkMonitor Inc.,Desconocido,4927,0
+byteoversea.net,net,0,15,0,0,0,0,0,Gandi SAS,Desconocido,2861,0
+ozon.ru,ru,0,7,0,0,0,0,0,RU-CENTER-RU,Desconocido,10024,0
+msftconnecttest.com,com,0,19,0,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,4126,0
+slack.com,com,0,9,0,0,0,0,1,"MarkMonitor, Inc.",US,11961,0
+pubmatic.com,com,0,12,0,0,0,0,1,"GoDaddy.com, LLC",Desconocido,6779,0
+twitch.tv,tv,0,9,0,0,0,0,1,"MarkMonitor, Inc.",US,5887,0
+mangosip.ru,ru,0,11,0,0,0,0,0,RU-CENTER-RU,Desconocido,5864,0
+vungle.com,com,0,10,0,0,0,0,0,Moniker Online Services LLC,US,5382,0
+bbc.com,com,0,7,0,0,0,0,1,"TUCOWS, INC.",GB,13155,0
+bbc.co.uk,co.uk,0,9,0,0,0,0,1,British Broadcasting Corporation [Tag = BBC],Desconocido,10581,0
+chatgpt.com,com,0,11,0,0,0,0,0,"MarkMonitor, Inc.",US,963,0
+ttvnw.net,net,0,9,0,0,0,0,0,MarkMonitor Inc.,Desconocido,4597,0
+comcast.net,net,0,11,0,0,0,0,0,"CSC Corporate Domains, Inc.",Desconocido,10161,0
+godaddy.com,com,0,11,0,0,0,0,0,"GoDaddy.com, LLC",Desconocido,9638,0
+ebay.com,com,0,8,0,0,0,0,1,"MarkMonitor, Inc.",US,10944,0
+creativecommons.org,org,0,19,0,0,0,0,1,Gandi SAS,CA,8953,0
+webex.com,com,0,9,0,0,0,0,1,"MarkMonitor, Inc.",US,9656,0
+miui.com,com,0,8,0,0,0,0,1,"eName Technology Co.,Ltd.",CN,8629,0
+roku.com,com,0,8,0,0,0,0,1,"CSC Corporate Domains, Inc.",Desconocido,7779,0
+sciencedirect.com,com,0,17,0,0,0,0,0,Safenames Ltd,UK,10358,0
+b-cdn.net,net,0,9,1,0,0,0,1,"Name.com, Inc.",US,3373,0
+weather.com,com,0,11,0,0,0,0,1,"CSC Corporate Domains, Inc.",Desconocido,11304,0
+jomodns.com,com,0,11,0,0,0,0,0,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",CN,5873,0
+scorecardresearch.com,com,0,21,0,0,0,0,1,MarkMonitor Inc.,Desconocido,6472,0
+ampproject.org,org,0,14,0,0,0,0,1,MarkMonitor Inc.,US,3612,0
+sourceforge.net,net,0,15,0,0,0,0,0,"GoDaddy.com, LLC",Desconocido,9479,0
+apigee.net,net,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,5967,0
+vedcdnlb.com,com,0,12,0,0,0,0,0,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),CN,1433,0
+fastly-edge.com,com,0,15,1,0,0,0,0,"MarkMonitor, Inc.",US,927,0
+cedexis.net,net,0,11,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6039,0
+cpanel.net,net,0,10,0,0,0,0,1,"TUCOWS, INC.",US,9017,0
+netangels.ru,ru,0,12,0,0,0,0,1,RU-CENTER-RU,Desconocido,7903,0
+mit.edu,edu,0,7,0,0,0,0,1,Desconocido,Desconocido,14669,0
+crashlytics.com,com,0,15,0,0,0,0,1,"MarkMonitor, Inc.",US,5295,0
+imdb.com,com,0,8,0,0,0,0,1,"MarkMonitor, Inc.",US,10790,0
+adtrafficquality.google,google,0,23,0,0,0,0,1,Desconocido,Desconocido,-1,0
+s-msedge.net,net,0,12,1,0,0,0,0,MarkMonitor Inc.,Desconocido,4155,0
+android.com,com,0,11,0,0,0,0,1,MarkMonitor Inc.,Desconocido,10255,0
+azurefd.net,net,0,11,0,0,0,0,0,MarkMonitor Inc.,Desconocido,2631,0
+omtrdc.net,net,0,10,0,0,0,0,0,NOM-IQ Ltd dba Com Laude,US,6207,0
+oracle.com,com,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,13380,0
+heytapdl.com,com,0,12,0,0,0,0,0,Key-Systems GmbH,SG,2218,0
+ksyuncdn.com,com,0,12,0,0,0,0,0,MarkMonitor Inc.,Desconocido,3896,0
+researchgate.net,net,0,16,0,0,0,0,0,Mesh Digital Limited,Desconocido,6373,0
+wikimedia.org,org,0,13,0,0,0,0,1,MarkMonitor Inc.,US,8163,0
+salesforce.com,com,0,14,0,0,0,0,1,"MarkMonitor, Inc.",US,9728,0
+canva.com,com,0,9,0,0,0,0,0,Gandi SAS,Desconocido,8843,0
+discord.com,com,0,11,0,0,0,0,1,"Cloudflare, Inc.",US,9023,0
+edgecdn.ru,ru,0,10,0,0,0,0,0,RU-CENTER-RU,Desconocido,1230,0
+mts.ru,ru,0,6,0,0,0,0,1,RU-CENTER-RU,Desconocido,10106,0
+ivi.ru,ru,0,6,0,0,0,0,1,RU-CENTER-RU,Desconocido,7904,0
+allawnos.com,com,0,12,0,0,0,0,0,Key-Systems GmbH,SG,1657,0
+temu.com,com,0,8,0,0,0,0,1,"MarkMonitor, Inc.",US,8119,0
+openai.com,com,0,10,0,0,0,0,0,MarkMonitor Inc.,Desconocido,6758,0
+linktr.ee,ee,0,9,0,0,0,0,1,Error,Error,-1,0
